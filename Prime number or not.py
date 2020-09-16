@@ -5,8 +5,8 @@ def isPrime(N):
     if (N <= 3) : 
         return True
   
-    # This is checked so that we can skip  
-    # middle five numbers in below loop 
+# This is checked so that we can skip  
+# middle five numbers in below loop 
     if (N % 2 == 0 or N % 3 == 0) : 
         return False
   
