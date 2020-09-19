@@ -5,7 +5,7 @@ def searchInSorted(arr, N, K):
         return -1
 
 #{ 
-#  Driver Code Starts
+#Driver Code Starts
 #Initial Template for Python 3
 
 import math
