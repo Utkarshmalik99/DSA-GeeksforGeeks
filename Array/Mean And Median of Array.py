@@ -1,9 +1,9 @@
-#{ 
+# 
 #Driver Code Starts
 #Initial Template for Python 3
 import math
 
-# } Driver Code Ends
+#Driver Code Ends
 
 def median(A,N):
     
