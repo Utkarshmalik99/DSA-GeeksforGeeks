@@ -14,7 +14,6 @@ import math
 
 from sys import stdin
 
-
 def main():
         T=int(input())
         while(T>0):
