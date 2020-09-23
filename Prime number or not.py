@@ -1,5 +1,5 @@
 def isPrime(N):
-    #Your code here
+#Your code here
     if (N <= 1) : 
         return False
     if (N <= 3) : 
