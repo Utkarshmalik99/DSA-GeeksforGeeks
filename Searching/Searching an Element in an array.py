@@ -4,8 +4,8 @@ def search(arr, N, X):
     else:
         return -1
 #{ 
-# Driver Code Starts
-# Initial Template for Python 3
+#Driver Code Starts
+#Initial Template for Python 3
 
 
 import math    
