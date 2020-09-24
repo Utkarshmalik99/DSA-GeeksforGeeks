@@ -5,7 +5,7 @@ def search(arr, N, X):
         return -1
 #{ 
 #  Driver Code Starts
-#Initial Template for Python 3
+#  Initial Template for Python 3
 
 
 import math    
